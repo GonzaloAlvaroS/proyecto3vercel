@@ -1,0 +1,102 @@
+.menu{
+    margin: 38px 0px;
+    margin-bottom: 40px;
+    padding: 0 71px;
+    position: relative;
+    text-align: center;
+}
+.menutitulo{
+    margin-top: 72px;
+    margin-bottom: 44px;
+}
+.menutitulo h1{
+    font-size: 40px;
+    font-family: "Inter Tight", sans-serif;
+}
+.slider{
+    display: flex;
+    overflow: hidden;
+    user-select: none;
+    gap: 15px
+}
+.slide{
+    padding-top: 0px;
+    background-color: rgb(240, 240, 240);
+    padding-bottom: 10px;
+    color: #949494;
+    border-radius: 15px;
+    line-height: 1.4;
+    width: 288px;
+    height: 555px;   
+}
+.menu-info{
+    cursor: pointer;
+    text-align: left;
+    margin-bottom: 50px;
+    font-size: 15px;
+}
+.menu-info h2{
+    color: black;
+    padding-top: 8px;
+    margin-left: 14px;
+}
+.menu-info h3{
+    color: black;
+    padding-top: 0px;
+    margin-left: 14px;
+    margin-top: 10px;
+}
+.menu-info span{
+    margin-left: 14px;
+    font-weight: 500;
+}
+.menu-info2{
+    margin-top: 12px;
+    margin-left: 16px;
+}
+.menu-info2 p{
+    display: inline-flex;
+    margin-left: 9px;
+}
+.botontexto1{
+    font-size: 15px;
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 410;
+    margin-left: 15px;
+}
+.botontexto2{
+    color: gray;
+    font-family: "Inter Tight", sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    transform: translateX(10.5px);
+}
+.menuinfonumero1{
+    transform: translateX(-27px);
+}
+.menuinfonumero2{
+    transform: translateX(-6px);
+}
+.menuinfonumero3{
+    transform: translateX(23px);
+}
+.menuinfonumero4{
+    transform: translateX(45.5px);
+}
+.btnañadir{
+    margin-top: 13px;
+    margin-left: 14px
+}
+.btnopciones{
+    margin-top: 45px;
+    width: 264px;
+}
+.menuimagen{
+    width: 288px;
+    height: 288px;
+    border-radius: 15px 15px 0 0;
+    -webkit-user-drag: none;
+}
+.imagencantidaddulce{
+    width: 25px;
+}

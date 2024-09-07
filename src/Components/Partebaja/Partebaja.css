@@ -1,0 +1,51 @@
+.partebajatodo{
+    display: flex;
+    background-color: #f5a7f1;
+    align-items: flex-start;
+    justify-content: center; 
+    margin-top: 30px;
+    position: relative;
+    height: 520px;
+}
+.partebajainfotodo{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    gap: 60px;   
+    margin-top: 35px;
+}
+.infobaja{
+    margin: 0;
+    padding: 0; 
+}
+.infobaja h3{
+    font-family: "Montserrat", sans-serif;
+    color: white;
+}
+.infobaja p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    color: white;
+    font-weight: 420;
+    margin-top: 17px;
+}
+.logopartebaja{
+    width: 200px;
+}
+.doblelinea{
+    width: 200px;
+}
+.logoboton{
+    justify-content: left;
+    display: flex;
+    align-items: center;
+    margin-left: -16px;
+    margin-top: 25px;
+}
+.logoboton img{
+    margin-left: 20px;
+    width: 32px;
+    cursor: pointer;
+}
+
+

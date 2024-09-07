@@ -1,0 +1,25 @@
+.marcas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    width: 100%;
+    overflow: hidden;
+}
+.marcastodo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 65px;
+}
+.marcastodo img{
+    width: 170px;
+    margin-right: 186px;
+    -webkit-user-drag: none;
+}
+.slider{
+    display: flex;
+    user-select: none;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+}

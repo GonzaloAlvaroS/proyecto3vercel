@@ -1,0 +1,75 @@
+.pasos{
+    width: 89.5%;
+    min-height: 86.5vh;
+    background-color: #e7e6e6; 
+    border-radius: 20px;
+    background-size: cover;
+    background-position: center;
+    color:black;
+    align-items: center;
+    justify-content: center;
+    margin-left: 70px;
+}
+.pasostitulo{
+    text-align: center;
+}
+.pasostitulo h1{
+    font-family: "Inter Tight", sans-serif;
+    font-size: 45px;
+    font-weight: 800;
+    transform: translateY(52px);
+}
+.pasosinfotodo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 78px;
+}
+.pasosinfo1{
+    text-align: center;
+}
+.pasosinfo1 h2{
+    font-family: "Fraunces", serif;
+    font-size: 26px;
+}
+.pasosinfo1 p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    width: 313px;
+    margin-top: 9px;
+}
+.pasosinfo2{
+    text-align: center;
+}
+.pasosinfo2 h2{
+    font-family: "Fraunces", serif;
+    font-size: 26px;
+}
+.pasosinfo2 p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    width: 237px;
+    margin-top: 9px;
+}
+.pasosinfo3{
+    text-align: center;
+}
+.pasosinfo3 h2{
+    font-family: "Fraunces", serif;
+    font-size: 26px;
+}
+.pasosinfo3 p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    width: 340px;
+    margin-top: 9px;
+}
+.pasosimagen{
+    width: 170px;
+}
+.btnpasos{
+    margin-left: 480px;
+    margin-top: 42px;
+}
+

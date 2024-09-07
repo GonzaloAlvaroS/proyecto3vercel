@@ -1,0 +1,42 @@
+.tabla{
+    width: 89.5%;
+    height: 102.5vh;
+    background-color: #e7e6e6; 
+    border-radius: 20px;
+    background-size: cover;
+    background-position: center;
+    color:black;
+    align-items: center;
+    justify-content: center;
+    margin-left: 70px;
+    margin-top: 36px;
+}
+.tablatitulo{
+    text-align: center;
+    transform: translateY(52px);
+}
+.tablatitulo h1{
+    font-family: "Inter Tight", sans-serif;
+    font-size: 45px;
+    font-weight: 800;
+}
+.tablatitulo p{
+    font-family: "Inter Tight";
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 300; 
+    margin-bottom: -5px;
+}
+.tablainfotodo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 78px;
+}
+.tablainfo1{
+    margin-top: 25px;
+}
+.tablaimagen{
+    width: 900px;
+}
+
