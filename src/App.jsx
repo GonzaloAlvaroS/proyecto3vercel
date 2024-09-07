@@ -42,7 +42,6 @@ const App = () => {
     <Descuento/>
     <Preguntas/>
     <Marcas/>
-    <Partebaja/>
     </div>
     }/>
     </Routes>
